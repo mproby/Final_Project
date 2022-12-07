@@ -171,7 +171,7 @@
   width: 1280px;
 }
 
-.homepage .did-you-know {
+.homepage .h1 {
   color: var(--black);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-l);
@@ -184,7 +184,7 @@
   width: 385px;
 }
 
-.homepage .in-america-the-rest {
+.homepage .h2 {
   left: 130px;
   letter-spacing: 1.20px;
   line-height: normal;
@@ -193,7 +193,7 @@
   width: 888px;
 }
 
-.homepage .food-heroes-are-here {
+.homepage .h3 {
   color: var(--black);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-m);
@@ -214,7 +214,7 @@
   width: 355px;
 }
 
-.homepage .how-weve-helped-so-far {
+.homepage .h4 {
   left: 443px;
   letter-spacing: 0;
   line-height: normal;
@@ -249,7 +249,7 @@
   width: 355px;
 }
 
-.homepage .volunteer-contact-us-about-us {
+.homepage .h5 {
   color: var(--white);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xs);
@@ -456,7 +456,7 @@
   font-weight: 400;
 }
 
-.poppins-semi-bold-black-24px {
+.h2 {
   color: var(--black);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-m);
